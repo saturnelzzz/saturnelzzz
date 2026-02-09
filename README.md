@@ -1,8 +1,6 @@
-<!-- Banner -->
 <p align="center">
   <img src="./assets/banner.png" alt="Saturnel Banner" />
 </p>
-
 <h1 align="center">Hi, I'm Saturnel 👋</h1>
 <h3 align="center">A Fullstack Developer</h3>
 
@@ -37,19 +35,12 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saturnelzzz&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturnelzzz&layout=compact&cache_seconds=1800" />
-</p>
-
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/saturnelzzz/saturnelzzz/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saturnelzzz" />
