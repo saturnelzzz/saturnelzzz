@@ -15,12 +15,12 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I'm **Saturnel**, focused on building **web apps** and **mobile experiences** that are fast, clean, and user-friendly.  
 I enjoy working with modern stacks, shipping features, and continuously improving code quality.
 
-- 🔭 Currently exploring: **React / Next.js / Mobile Dev**
-- 🌱 Learning: **System design, performance, and scalable UI**
+- Currently exploring: **React / Next.js / Mobile Dev / Golang**
+- Learning: **System design, performance, and scalable UI**
 - 🤝 Open to: collaboration on interesting products
 
 ---
