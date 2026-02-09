@@ -26,12 +26,12 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 ## 🧰 Core Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwind" />
 </p>
 
 ## 🧩 Other Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,vite,nodejs,php,laravel,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,vite,react,nextjs,nodejs,git,github" />
 </p>
 
 ---
