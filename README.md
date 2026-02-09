@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Saturnel Banner" />
+</p>
 
-<!--
-**saturnelzzz/saturnelzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Saturnel 👋</h1>
+<h3 align="center">A Web and Mobile Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-Follow-informational?style=flat&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/saturnel"><img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+I'm **Saturnel**, focused on building **web apps** and **mobile experiences** that are fast, clean, and user-friendly.  
+I enjoy working with modern stacks, shipping features, and continuously improving code quality.
+
+- 🔭 Currently exploring: **React / Next.js / Mobile Dev**
+- 🌱 Learning: **System design, performance, and scalable UI**
+- 🤝 Open to: collaboration on interesting products
+
+---
+
+## 🧰 Core Tech Stacks
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
+</p>
+
+## 🧩 Other Tech Stacks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vite,nodejs,express,php,laravel,postgres,mysql,firebase,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saturnel&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturnel&layout=compact" />
+</p>
+
+---
+
+## 🔗 Featured Projects
+- 🚀 **Project 1** — short description (link)
+- 📱 **Project 2** — short description (link)
+- 🧠 **Project 3** — short description (link)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saturnel&style=flat" />
+</p>
