@@ -32,7 +32,7 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 ## 🧩 Other Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vite,nodejs,express,php,laravel,postgres,mysql,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,vite,nodejs,php,laravel,mysql,git,github" />
 </p>
 
 ---
