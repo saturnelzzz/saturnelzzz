@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Saturnel 👋</h1>
-<h3 align="center">A Web and Mobile Developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <p align="center">
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
