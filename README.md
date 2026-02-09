@@ -39,8 +39,8 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 ## 📊 GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saturnel&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturnel&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saturnelzzz&show_icons=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saturnelzzz&layout=compact" />
 </p>
 
 ---
