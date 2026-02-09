@@ -9,6 +9,7 @@
   <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-Follow-informational?style=flat&logo=instagram" /></a>
   <a href="https://www.linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/saturnel"><img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=saturnel&style=flat" />
 </p>
 
 ---
@@ -44,11 +45,4 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saturnelzzz" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saturnel&style=flat" />
 </p>
