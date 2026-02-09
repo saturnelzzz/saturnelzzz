@@ -1,8 +1,9 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Saturnel Banner" />
 </p>
-<h1 align="center">Hi, I'm Saturnel 👋</h1>
-<h3 align="center">A Fullstack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+saturnel!;FullStack+Developer+%26+Creative+Coder;Interactive+Apps+%7C+Games+%7C+Experiments;Always+Exploring+New+Ideas" />
+</p>
 
 <p align="center">
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
@@ -31,7 +32,7 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 ## 🧩 Other Tech Stacks
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,vite,react,nextjs,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,dart,go,docker,vite,react,nextjs,nodejs,git,github" />
 </p>
 
 ---
