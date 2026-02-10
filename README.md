@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Saturnel Banner" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saturnel+Full+Stack!;Building+Modern+Web+%26+Mobile+Apps;Code+%7C+Creativity+%7C+Innovation;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saturnel+Full+Stack+Developer!;Building+Modern+Web+%26+Mobile+Apps;Code+%7C+Creativity+%7C+Innovation;Turning+Ideas+Into+Reality" />
 </p>
 
 <p align="center">
