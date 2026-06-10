@@ -1,17 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner.png" alt="Saturnel Banner" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Saturnel+Full+Stack+Developer!;Building+Modern+Web+%26+Mobile+Apps;Code+%7C+Creativity+%7C+Innovation;Turning+Ideas+Into+Reality" />
-</p>
-
-<p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-Follow-informational?style=flat&logo=instagram" /></a>
-  <a href="https://www.linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/saturnel"><img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=saturnel&style=flat" />
-</p>
+</p> -->
 
 ---
 
@@ -46,4 +38,13 @@ I enjoy working with modern stacks, shipping features, and continuously improvin
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saturnelzzz" />
+</p>
+---
+
+<p align="center">
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-Follow-informational?style=flat&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/saturnel"><img src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=saturnel&style=flat" />
 </p>
